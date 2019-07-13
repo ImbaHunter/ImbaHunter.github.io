@@ -57,11 +57,14 @@ These Services do not address anyone under the age of 13. I do not knowingly col
 <h1>7. Distribution </h1>
 The only official channel for distribution of this app are:
 * Google Play Store                https://play.google.com/
+
 Any other mode of distribution is not official and thus, is not maintained by the developer. This privacy policy is effective to distribution made on official channel only.
 
 <h1>8. Changes to This Privacy Policy </h1>
 This policy may be updated from time to time.
+
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to
 contact me.
+
 imbahunter@bk.ru
 
