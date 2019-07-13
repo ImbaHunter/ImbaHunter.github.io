@@ -1,6 +1,7 @@
 # imbahunter.github.io
 
 Privacy Policy
+
 Developer built the "Dungeon Deaths" app as an Ad Supported app. This app is provided by at no cost and is intended for use as is.
 This privacy policy is used to inform you regarding policies with the collection, use, and disclosure of Personal Information if anyone decided to use this Service.
 
