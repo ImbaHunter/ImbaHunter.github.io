@@ -48,18 +48,18 @@ Online resources:
 <h1>4. Security </h1>
 I am striving to use commercially acceptable means of protecting your Personal Information. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
 
-5. Links to Other Sites
+<h1>5. Links to Other Sites </h1>
 This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
-6. Children’s Privacy
+<h1>6. Children’s Privacy </h1>
 These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, I immediately delete those informations. If you are a parent or guardian and you are aware that your child has provided personal information, please contact me so that I will be able to do necessary actions.
 
-7. Distribution
+<h1>7. Distribution </h1>
 The only official channel for distribution of this app are:
 * Google Play Store                https://play.google.com/
 Any other mode of distribution is not official and thus, is not maintained by the developer. This privacy policy is effective to distribution made on official channel only.
 
-8. Changes to This Privacy Policy
+<h1>8. Changes to This Privacy Policy </h1>
 This policy may be updated from time to time.
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to
 contact me.
