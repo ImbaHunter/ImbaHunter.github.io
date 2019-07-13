@@ -1,6 +1,6 @@
 # imbahunter.github.io
 
-Privacy Policy
+<h1>Privacy Policy</h1>
 
 Developer built the "Dungeon Deaths" app as an Ad Supported app. This app is provided by at no cost and is intended for use as is.
 This privacy policy is used to inform you regarding policies with the collection, use, and disclosure of Personal Information if anyone decided to use this Service.
@@ -14,7 +14,7 @@ Links to privacy policies of third party service providers used in the app:
 
 •	Unity Ads - https://unity3d.com/legal/privacy-policy
 
-2. Sharing Your Information
+<h1>2. Sharing Your Information</h1>
 The developer will share personal information with third parties only in the ways that are described in this privacy statement.
 Your personal information may be disclosed: 
 * As required by law, such as to comply with a subpoena, or similar legal process.
