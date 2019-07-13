@@ -18,6 +18,7 @@ Your personal information may be disclosed:
 * To any other third party with your prior consent to do so.
 
 3. What information are collected and why
+
 3.1 Unity Ads and Unity Analytics 
 Developer also gets and processes information obtained using Unity ADS and Unity Analytics (privacy policy https://unity3d.com/legal/privacy-policy), which can contain: IP-address, location, OS related information, UDID of the device, information of user action during application use, time and game results, etc. 
 
@@ -35,6 +36,7 @@ Google use the collected information to provide, maintain, protect and improve G
 Online resources:
 * Google Terms of Service      https://policies.google.com/terms
 * Google Privacy Policy        https://policies.google.com/privacy
+
 
 4. Security
 I am striving to use commercially acceptable means of protecting your Personal Information. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
