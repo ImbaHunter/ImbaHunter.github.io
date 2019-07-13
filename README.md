@@ -10,6 +10,7 @@ This privacy policy is used to inform you regarding policies with the collection
 
 The app uses advertising (and in app payments) to make revenue. The app uses third party libraries for advertising which may collect and share personal information with third parties.
 Links to privacy policies of third party service providers used in the app:
+
 •	Google Play Services - https://www.google.com/policies/privacy/
 
 •	Unity Ads - https://unity3d.com/legal/privacy-policy
@@ -17,10 +18,12 @@ Links to privacy policies of third party service providers used in the app:
 <h1>2. Sharing Your Information</h1>
 The developer will share personal information with third parties only in the ways that are described in this privacy statement.
 Your personal information may be disclosed: 
+
 * As required by law, such as to comply with a subpoena, or similar legal process.
+
 * To any other third party with your prior consent to do so.
 
-3. What information are collected and why
+<h1>3. What information are collected and why</h1>
 
 3.1 Unity Ads and Unity Analytics 
 Developer also gets and processes information obtained using Unity ADS and Unity Analytics (privacy policy https://unity3d.com/legal/privacy-policy), which can contain: IP-address, location, OS related information, UDID of the device, information of user action during application use, time and game results, etc. 
