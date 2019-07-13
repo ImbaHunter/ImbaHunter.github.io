@@ -6,9 +6,11 @@ Developer built the "Dungeon Deaths" app as an Ad Supported app. This app is pro
 This privacy policy is used to inform you regarding policies with the collection, use, and disclosure of Personal Information if anyone decided to use this Service.
 
 1. Overview
+
 The app uses advertising (and in app payments) to make revenue. The app uses third party libraries for advertising which may collect and share personal information with third parties.
 Links to privacy policies of third party service providers used in the app:
-•	Google Play Services - https://www.google.com/policies/privacy/ 
+•	Google Play Services - https://www.google.com/policies/privacy/
+
 •	Unity Ads - https://unity3d.com/legal/privacy-policy
 
 2. Sharing Your Information
