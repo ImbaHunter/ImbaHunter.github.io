@@ -25,10 +25,10 @@ Your personal information may be disclosed:
 
 <h1>3. What information are collected and why</h1>
 
-3.1 Unity Ads and Unity Analytics 
+<h2>3.1 Unity Ads and Unity Analytics </h2>
 Developer also gets and processes information obtained using Unity ADS and Unity Analytics (privacy policy https://unity3d.com/legal/privacy-policy), which can contain: IP-address, location, OS related information, UDID of the device, information of user action during application use, time and game results, etc. 
 
-3.2 Google Play Services
+<h2>3.2 Google Play Services </h2>
 Google Play Services offers APIs and security services to the Android developer ecosystem. Google acts as a data controller for any personal data processed in Google Play Services, and offers user notices and consents about the use of personal data in the service’s user interface in Android.
 Collected informations:
 * Device information
