@@ -44,7 +44,7 @@ Online resources:
 * Google Privacy Policy        https://policies.google.com/privacy
 
 
-4. Security
+<h1>4. Security </h1>
 I am striving to use commercially acceptable means of protecting your Personal Information. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
 
 5. Links to Other Sites
