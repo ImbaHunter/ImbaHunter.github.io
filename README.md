@@ -38,6 +38,7 @@ Collected informations:
 * Local storage
 * Cookies and similar technologies
 
+
 Google use the collected information to provide, maintain, protect and improve Google's services, to develop new ones, and to protect Google and the users. Google also use this  information to offer you tailored content – like giving you more relevant search results and ads.
 Online resources:
 * Google Terms of Service      https://policies.google.com/terms
